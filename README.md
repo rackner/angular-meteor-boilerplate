@@ -15,4 +15,6 @@ Instructions:
 
 3)bower install
 
-4)ionic run android
+4)cordova plugin add android
+
+5)ionic run android
