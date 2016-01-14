@@ -1,4 +1,4 @@
-# angular-meteor-whatsapp
+# angular-meteor-boilerplate
 
 
 An ionic boiler-plate for angular-meteor users designed to allow mobile functionality. (meteor mobile deploy commands don't work on windows)
@@ -9,16 +9,10 @@ https://github.com/dawiong/report-a-cab/commit/6fb6f06b52a28ee7aaaa9d0a4d8ca4a09
 
 Instructions:
 
-1)git clone https://github.com/fhackenb/angular-meteor-whatsapp
+1)git clone https://github.com/racknersolutions/angular-meteor-boilerplate
 
 2)npm install
 
 3)bower install
 
-4)cordova plugin add cordova-plugin-whitelist
-
-To run on mobile:
-
-5)cordova platform add android
-
-6)ionic run android
+4)ionic run android
